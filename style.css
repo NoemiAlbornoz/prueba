@@ -81,7 +81,9 @@ footer{
   min-height: 200px;
   text-align:center;
 }
-
+.container-saludo{
+  text-align: center;
+}
 @media (max-width: 768px) {  /*Este código oculta los enlaces de navegación y muestra el botón “Menú” en pantallas con un ancho de 768 píxeles o menos, y utiliza una clase extra para poder hacer que el botón menú despliegue los enlaces .*/
 .column {
 flex: 100%;
